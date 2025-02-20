@@ -1,0 +1,9 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M150 0L280 75V225L150 300L20 225V75L150 0Z" fill="#4A5568"/>
+  <path d="M150 30L255 90V210L150 270L45 210V90L150 30Z" fill="#2D3748"/>
+  <path d="M150 60L225 105V195L150 240L75 195V105L150 60Z" fill="#1A202C"/>
+  <path d="M150 90L195 120V180L150 210L105 180V120L150 90Z" fill="#FFFFFF"/>
+  <path d="M150 120L165 135V165L150 180L135 165V135L150 120Z" fill="#4A5568"/>
+  <text x="150" y="260" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle">ESCOLA</text>
+</svg>
+
